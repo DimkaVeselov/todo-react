@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/todo-react/static/css/main.4f575c92.chunk.css",
+    "main.js": "/todo-react/static/js/main.24362edb.chunk.js",
+    "main.js.map": "/todo-react/static/js/main.24362edb.chunk.js.map",
+    "runtime-main.js": "/todo-react/static/js/runtime-main.ff8fa276.js",
+    "runtime-main.js.map": "/todo-react/static/js/runtime-main.ff8fa276.js.map",
+    "static/js/2.5bdec3a1.chunk.js": "/todo-react/static/js/2.5bdec3a1.chunk.js",
+    "static/js/2.5bdec3a1.chunk.js.map": "/todo-react/static/js/2.5bdec3a1.chunk.js.map",
+    "index.html": "/todo-react/index.html",
+    "static/css/main.4f575c92.chunk.css.map": "/todo-react/static/css/main.4f575c92.chunk.css.map",
+    "static/js/2.5bdec3a1.chunk.js.LICENSE.txt": "/todo-react/static/js/2.5bdec3a1.chunk.js.LICENSE.txt",
+    "static/media/App.module.css": "/todo-react/static/media/WHS_black.dc001e86.1b31083f.svg",
+    "static/media/error.4a3884e9.svg": "/todo-react/static/media/error.4a3884e9.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ff8fa276.js",
+    "static/js/2.5bdec3a1.chunk.js",
+    "static/css/main.4f575c92.chunk.css",
+    "static/js/main.24362edb.chunk.js"
+  ]
+}
