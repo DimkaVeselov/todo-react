@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter as Router, Route, NavLink } from "react-router-dom";
+import { HashRouter  as Router, Route, NavLink } from "react-router-dom";
 
 import About from '../About/About';
 import ToDo from '../ToDo/ToDo';
