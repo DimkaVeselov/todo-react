@@ -14,7 +14,7 @@ const ToDo = () => {
     Items: [
       {
         value: 'Написать новое приложение',
-        isDone: false,
+        isDone: true,
         id: 1
       },
       {
@@ -31,8 +31,8 @@ const ToDo = () => {
     filter: 'all',
     filteredItems: [],
     count: 3,
-    countActive: 3,
-    countDone: 0,
+    countActive: 2,
+    countDone: 1,
     lastID: 3,
     selectedId: -1
   };
