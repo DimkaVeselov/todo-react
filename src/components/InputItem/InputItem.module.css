@@ -1,0 +1,11 @@
+.inputWrap {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+@media screen and (min-width: 270px) and (max-width: 575px) {
+  .inputWrap {
+    margin-bottom: 15px;
+  }
+}

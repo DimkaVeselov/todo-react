@@ -1,0 +1,25 @@
+.item {
+  display: flex;
+  align-items: center;
+  flex: 1;
+  text-transform: uppercase;
+}
+
+.done {
+  color: #c4c4c4;
+  text-decoration: line-through #3f51b5 2px;
+}
+
+.btnDelete {
+  width: 36px;
+  padding: 0;
+  background: none;
+  border: none;
+  outline: none;
+  opacity: .4;
+  cursor: pointer;
+}
+
+.btnDelete:hover {
+  opacity: 1;
+}
